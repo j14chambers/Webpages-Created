@@ -1,1 +1,41 @@
 
+body {
+  background-color: Black;
+}
+
+.red-text {
+  color: red;
+  font-size: 90px;
+}
+
+h2 {
+  font-family: Lobster, Monospace;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+
+.thick-white-border {
+  border-color: black;
+  border-width: 20px;
+  border-style: solid;
+  color: white;
+  font-size: 20px;
+}
+
+i {
+  font-size: 22px;
+  font: Tahoma;
+}
+
+.displayed-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.border-box {
+  border-color: red;
+  border-width: 50px;
+  border-style: solid;
+}
