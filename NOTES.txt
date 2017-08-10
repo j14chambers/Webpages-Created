@@ -1,0 +1,43 @@
+
+
+Rename Barack Obama folder to Obama
+align code correctly
+change photo without white border
+
+
+Bio
+    -education
+    -family
+    
+Politics
+
+    -US Senate
+    -President
+    
+Accomplishments    
+
+
+images urls:
+
+http://www.wdkx.com/wdkxwp/wp/wp-content/uploads/2017/01/112012-politics-Inauguration-guide-barack-obama-waving-smiling.png
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcURCeVzrTbEi2n6Ad-12eW1F0fzbR_wOmAxBAxdsuchr8dfnWdA           --used
+https://upload.wikimedia.org/wikipedia/commons/5/5d/Barack_Obama_family_portrait_2011.jpg
+
+family photo:
+http://i2.cdn.cnn.com/cnnnext/dam/assets/150723174958-obama-family-christmas-2014-restricted-super-169.jpg
+https://s-media-cache-ak0.pinimg.com/736x/9d/df/53/9ddf53b09f326cc12012108025d83e09--beautiful-family-beautiful-people.jpg
+
+biden and obama:
+http://newscult.com/wp-content/uploads/2016/08/Joe-Biden-with-Barack-Obama-759x500.jpg
+https://static1.squarespace.com/static/530becede4b093256168fba5/t/579936aa46c3c4aaa02e0879/1469658804722/
+http://images.hellogiggles.com/uploads/2016/08/04094247/obama1-700x525.jpg
+
+
+8/9/2017
+
+Updated Webpage
+Change layout
+Added photos
+
+-Change font of p and quotes
+-Add Footer to page
